@@ -1,0 +1,8 @@
+```
+patient_id,age,gender,diagnosis_code,length_of_stay,diabetes,hypertension,heart_disease,admission_date,readmission
+P001,65,M,I10,5,1,0,1,2025-01-01,1
+P002,45,F,J45,3,0,1,0,2025-01-02,0
+P003,72,M,E11,7,1,1,0,2025-01-03,1
+P004,30,F,F32,2,0,0,0,2025-01-04,0
+P005,55,M,I21,6,0,1,1,2025-01-05,1
+```

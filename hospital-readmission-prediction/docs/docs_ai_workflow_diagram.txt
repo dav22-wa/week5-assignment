@@ -1,0 +1,11 @@
+```
+graph TD
+    A[Start] --> B[Problem Definition]
+    B --> C[Data Collection]
+    C --> D[Data Preprocessing]
+    D --> E[Model Development]
+    E --> F[Model Evaluation]
+    F --> G[Deployment]
+    G --> H[Maintenance]
+    H -->|Feedback Loop| C
+```
