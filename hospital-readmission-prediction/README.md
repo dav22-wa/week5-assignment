@@ -48,5 +48,5 @@ This repository contains code for the AI Development Workflow Assignment (AI for
 - The flowchart visualizes the CRISP-DM-inspired AI Development Workflow.
 
 ## License
-MIT License (see LICENSE file).
+MIT License .
 ```
