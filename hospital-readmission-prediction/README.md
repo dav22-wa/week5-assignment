@@ -1,4 +1,4 @@
-```
+
 # Hospital Readmission Prediction
 This repository contains code for the AI Development Workflow Assignment (AI for Software Engineering course). It implements a machine learning pipeline to predict patient readmission risk within 30 days of discharge, addressing the case study in Part 2 of the assignment.
 
@@ -31,7 +31,7 @@ This repository contains code for the AI Development Workflow Assignment (AI for
       "heart_disease": 1,
       "admission_date": "2025-01-01"
     }
-    ```
+    
 
 ## Files
 - `data/sample_data.csv`: Simulated dataset.
